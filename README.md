@@ -1,1 +1,2 @@
-# qol_exp_demo
+# Quality of Life Explorer Demo
+
