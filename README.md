@@ -16,7 +16,7 @@ This demo will:
 * Generate a **bivariate map** combining both metrics in a single visualization.  
 * Learn how to interpret patterns and insights using simple summary statistics and visualizations.
 
-## To get started with the demo, access the `QLE_Environmental_Demo.ipynb` ![here](https://github.com/CS-Edwards/qol_exp_demo/blob/main/QLE_Environmental_Demo.ipynb)
+#### To get started with the demo, access the `QLE_Environmental_Demo.ipynb` [here](https://github.com/CS-Edwards/qol_exp_demo/blob/main/QLE_Environmental_Demo.ipynb).
 
 <img src="/imgs/tree_canopy_summary.png" alt="Project Screenshot" width="400"/>
 <img src="/imgs/qol_explorer_ss.png" alt="Project Screenshot" width="400"/>
