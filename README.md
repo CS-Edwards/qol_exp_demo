@@ -7,7 +7,7 @@ This demo uses the QLE data to explore the relationship between **Tree Canopy** 
 
 ## Workshop Demo Overview
 
-In this demo, participants will:
+This demo will:
 
 * Load and explore **Tree Canopy** and **Electricity Consumption** data from the QLE download.  
 * Subset and clean the data to focus on the variables of interest.  
@@ -15,8 +15,6 @@ In this demo, participants will:
 * Build **scatter plots** to compare neighborhoods visually.  
 * Generate a **bivariate map** combining both metrics in a single visualization.  
 * Learn how to interpret patterns and insights using simple summary statistics and visualizations.
-
-This demo is designed to be **hands-on and inclusive**, providing a foundation for exploring real-world data without requiring advanced coding or GIS experience.
 
 
 
