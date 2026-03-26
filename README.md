@@ -1,10 +1,22 @@
-# Quality of Life Explorer Demo
 
-/imgs/qol_explorer_ss.png
-imgs/tree_canopy_summary.png
-imgs/tree_electivity_bivar.png
+# Charlotte-Mecklenburg Quality of Life Explorer Workshop Demo
 
-![Alt text](imgs/your-image-name.png)
+The **Charlotte-Mecklenburg Quality of Life Explorer (QLE)** is an interactive online tool designed to explore the social, housing, economic, environmental, and safety conditions across Charlotte and Mecklenburg County. With more than 80 interactive maps, the QLE provides **free, embeddable visualizations** and allows users to **download data** in multiple formats, including CSV, GeoJSON, and metadata files. The explorer covers social, economic, housing, environmental, and safety indicators. Users can access raw data in multiple formats for analysis. 
+
+This demo uses the QLE data to explore the relationship between **Tree Canopy** and **Electricity Consumption** across neighborhoods. By combining spatial data (GeoJSON) with tabular data (CSV), to visualize patterns, compare metrics, and perform simple analyses to understand how environmental and energy data interact at the neighborhood level.
+
+## Workshop Demo Overview
+
+In this demo, participants will:
+
+* Load and explore **Tree Canopy** and **Electricity Consumption** data from the QLE download.  
+* Subset and clean the data to focus on the variables of interest.  
+* Create **side-by-side maps** showing Tree Canopy and Electricity Consumption.  
+* Build **scatter plots** to compare neighborhoods visually.  
+* Generate a **bivariate map** combining both metrics in a single visualization.  
+* Learn how to interpret patterns and insights using simple summary statistics and visualizations.
+
+This demo is designed to be **hands-on and inclusive**, providing a foundation for exploring real-world data without requiring advanced coding or GIS experience.
 
 
 
